@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm Sebastián 👋
 
-<!--
-**sebasescobarv/sebasescobarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer based in Medellín, Colombia.
+I build production SaaS with **Next.js 14**, **FastAPI**, and **PostgreSQL/PostGIS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm building
+
+**[GFD – Gestión y Fiscalización Digital](https://tintaverde.co)**
+A multi-tenant SaaS platform for regulatory mining compliance in Colombia.
+Currently in production pilot with a gold mining operation in Marmato, Caldas.
+
+`Next.js 14` `FastAPI` `PostgreSQL` `PostGIS` `Docker` `Railway` `TypeScript`
+
+---
+
+### 🛠️ Tech stack
+
+| Layer | Tools |
+|---|---|
+| Frontend | Next.js 14, React, TypeScript, Tailwind CSS |
+| Backend | FastAPI, Python, SQLAlchemy, Alembic |
+| Database | PostgreSQL, PostGIS |
+| DevOps | Docker, Railway, cPanel, Linux |
+
+---
+
+### 📌 Background
+
+- 🎓 MSc in Biological Sciences — Universidad de Caldas
+- 🧪 Published researcher (Springer, Elsevier) with domain expertise in environmental data
+- 🌎 English C1 — currently teaching STEM in English at a bilingual institution
+- 📍 Medellín, Colombia · Open to remote roles
+
+---
+
+### 📫 Contact
+
+- Email: sebastian.escobar.vargas@gmail.com
+- LinkedIn: [linkedin.com/in/sebastián-escobar-vargas](https://linkedin.com/in/sebastián-escobar-vargas-)
